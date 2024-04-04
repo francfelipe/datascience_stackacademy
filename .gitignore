@@ -1,1 +1,7 @@
 .venv/
+*.csv
+*.pdf
+*.png
+*.db
+*.xls
+*.xlsx
